@@ -1,4 +1,5 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 # Vartalap
 <a href='https://play.google.com/store/apps/details?id=com.one9x.vartalap'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150" /></a>
 
