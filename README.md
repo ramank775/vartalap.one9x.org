@@ -5,6 +5,7 @@ Vartalap is an open source personal chat application. It is design to provide th
 
 Github Repo:
 Flutter App: - [https://github.com/ramank775/vartalap](https://github.com/ramank775/vartalap)
+
 Backend Server:- [https://github.com/ramank775/chat-server](https://github.com/ramank775/chat-server)
 
 If you are an open source contributor and interested in contributing towards this app, reach out to me at twitter [@vartalap_app](https://twitter.com/vartalap_app)
