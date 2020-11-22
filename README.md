@@ -13,7 +13,7 @@ Backend Server:- [https://github.com/ramank775/chat-server](https://github.com/r
 If you are an open source contributor and interested in contributing towards this app, reach out to me at twitter [@vartalap_app](https://twitter.com/vartalap_app)
 
 Note:
-- This app is currently under development. if you have found any issue feel free to raise a issue on the Github or email on the developer mail [one9x.vartalap@gmail.com](mailto:one9x.vartalap@gmail.com)
+- This app is currently under development. if you have found any issue feel free to raise a issue on the Github or email on the developer mail [vartalap@one9x.com](mailto:vartalap@one9x.com)
 - Currently this is available only in India
 
 
