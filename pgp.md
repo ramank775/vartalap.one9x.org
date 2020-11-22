@@ -1,3 +1,5 @@
+PGP public key
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User-ID:	Vartalap <security@one9x.com>
 Comment: Created:	23-11-2020 12:30 AM
@@ -46,3 +48,4 @@ OCjLqtHdfdl3ixek2YiixweJ9ogW8+Iw8BdNOYhOcm//Bli9k+jDDpTED8DUh+YO
 ltf3R6KL6gJuz+SujdwuPi8ylYd5
 =v94M
 -----END PGP PUBLIC KEY BLOCK-----
+```
