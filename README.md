@@ -19,3 +19,4 @@ Note:
 
 ## Links
 - [Privacy Policy](https://vartalap.one9x.com/privacy-policy)
+- [Security vulnerability Disclosure Policy](https://vartalap.one9x.com/secuirty-policy)
