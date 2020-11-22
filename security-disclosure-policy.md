@@ -1,4 +1,4 @@
-## Responsible Disclosure Policy
+## Security Vulnerability Disclosure Policy
 We consider the security of our users and our platform a top priority. If you believe that you have discovered a potential vulnerability on our platform or in any APIs, apps or servers or any other assets please inform us via security@one9x.com. We would like to know about it so we can take steps to address it as quickly as possible.
 
 We would appreciate your help in security by revealing your findings in accordance with this policy.
