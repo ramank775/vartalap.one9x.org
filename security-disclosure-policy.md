@@ -19,4 +19,4 @@ We would appreciate your help in security by revealing your findings in accordan
 - We will keep you informed of the progress towards resolving the problem.
 
 ## Resources
-- PGP public key - [pgp.txt](https://vartalap.one9x.com/pgp.txt)
+- PGP public key - [pgp.txt](https://vartalap.one9x.com/pgp)
