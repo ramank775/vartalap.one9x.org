@@ -13,10 +13,10 @@ Backend Server:- [https://github.com/ramank775/chat-server](https://github.com/r
 If you are an open source contributor and interested in contributing towards this app, reach out to me at twitter [@vartalap_app](https://twitter.com/vartalap_app)
 
 Note:
-- If you have found any issue feel free to raise a issue on the Github or email on the developer mail [vartalap@one9x.com](mailto:vartalap@one9x.com)
+- If you have found any issue feel free to raise a issue on the Github or email on the developer mail [vartalap@one9x.org](mailto:vartalap@one9x.org)
 - Currently this is available only in India
 
 
 ## Links
-- [Privacy Policy](https://vartalap.one9x.com/privacy-policy)
-- [Security vulnerability Disclosure Policy](https://vartalap.one9x.com/security-disclosure-policy)
+- [Privacy Policy](https://vartalap.one9x.org/privacy-policy)
+- [Security vulnerability Disclosure Policy](https://vartalap.one9x.org/security-disclosure-policy)
