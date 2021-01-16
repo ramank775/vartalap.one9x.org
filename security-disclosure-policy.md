@@ -1,11 +1,11 @@
 ## Security Vulnerability Disclosure Policy
-We consider the security of our users and our platform a top priority. If you believe that you have discovered a potential vulnerability on our platform or in any APIs, apps or servers or any other assets please inform us via [security@one9x.com](mailto:security@one9x.com). We would like to know about it so we can take steps to address it as quickly as possible.
+We consider the security of our users and our platform a top priority. If you believe that you have discovered a potential vulnerability on our platform or in any APIs, apps or servers or any other assets please inform us via [security@one9x.org](mailto:security@one9x.org). We would like to know about it so we can take steps to address it as quickly as possible.
 
 We would appreciate your help in security by revealing your findings in accordance with this policy.
 
 ### Do and Don't:
 
-- E-mail your findings to [security@one9x.com](mailto:security@one9x.com). Encrypt your findings using PGP key to prevent this critical information from falling into the wrong hands.
+- E-mail your findings to [security@one9x.org](mailto:security@one9x.org). Encrypt your findings using PGP key to prevent this critical information from falling into the wrong hands.
 - Do not exploit the vulnerability you have discovered,by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying other people's data.
 - Do not reveal the problem to others until it has been resolved.
 - Do not use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties.
@@ -19,4 +19,4 @@ We would appreciate your help in security by revealing your findings in accordan
 - We will keep you informed of the progress towards resolving the problem.
 
 ## Resources
-- PGP public key - [pgp.txt](https://vartalap.one9x.com/pgp)
+- PGP public key - [pgp.txt](https://vartalap.one9x.org/pgp)
