@@ -67,7 +67,7 @@ a {
   background-color: rgb(24, 99, 99, 0.7);
   margin-bottom: 20px;
   padding: 20px;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 
 .answer {
