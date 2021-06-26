@@ -54,7 +54,7 @@ a {
 
 .info {
   width: 90vw;
-  height: 85vh;
+  height: 100%;
   margin: 5%;
   margin-top: 7%;
   padding: 10px;
@@ -145,11 +145,6 @@ footer{
   border-radius: 5px;
 }
 
-@media screen and (max-width:820px) {
-  .info {
-    height: 92vh;
-  }
-}
 
 @media screen and (max-width:736px) {
   
@@ -163,7 +158,6 @@ footer{
   }
   .info {
     margin-left: 2.5%;
-    height: 90vh;
   }
   .video {
     width: 100vw;
@@ -184,12 +178,6 @@ footer{
   }
   .msg {
     width: 75%;
-  }
-}
-
-@media screen and (max-width:340px) {
-  .info {
-    height: 95vh;
   }
 }
 
