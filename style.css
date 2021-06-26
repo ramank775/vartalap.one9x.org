@@ -1,0 +1,195 @@
+.container {
+  width: 95vw;
+  height: 100%;
+  color: whitesmoke;
+}
+
+#heading {
+  height: 15vh;
+}
+.intro-container {
+  overflow-x: hidden;
+  width: 90vw;
+}
+
+.intro {
+  float: left;
+  width: 48%;
+}
+
+.vartalap {
+  font-size: 60px;
+  margin-bottom: 4%;
+  margin-left: 5%;
+  color: #aee051;
+}
+
+.video {
+  float: right;
+  width: 48%;
+}
+
+.video > iframe {
+  width: 500px;
+  height: 300px;
+}
+
+.description {
+  font-size: 20px;
+  margin-top: 1%;
+  margin-left: 6%;
+}
+
+.icons {
+  margin: 7%;
+}
+
+#icons {
+  margin-left: 3%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.info {
+  width: 90vw;
+  height: 85vh;
+  margin: 5%;
+  margin-top: 7%;
+  padding: 10px;
+  overflow-y: hidden;
+  box-shadow: 2px 6px 10px 2px rgba(0, 0, 0, 0.749), 2px 8px 22px 2px rgba(0, 0, 0, 0.728);
+}
+
+.chatbox {
+  height: 60vh;
+  background-color: rgb(24, 99, 99, 0.7);
+  margin-bottom: 20px;
+  padding: 20px;
+  overflow: scroll;
+}
+
+.answer {
+  width: 52%;
+  text-align: right;
+  margin-bottom: 2.7%;
+  float: right;
+}
+
+.answer>.content {
+ background-color: rgb(27, 131, 131);
+}
+
+.question {
+  width: 52%;
+  margin-bottom: 2.7%;
+  float: left;
+}
+
+.question>.content {
+
+  background-color: rgb(15, 65, 65);
+}
+
+.content {
+  display: inline-block;
+  text-align: left;
+  min-width: 30%;
+  line-height: 20px;
+  padding: 10px;
+  color: whitesmoke;
+  border-radius: 10px;
+  box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.749), 0px 4px 18px 0px rgba(0, 0, 0, 0.728);
+}
+
+hr {
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.749), 0px 6px 20px 0px rgba(0, 0, 0, 0.728);
+
+}
+
+.chatbox-title {
+  text-shadow: 2px 2px 4px #000000;
+  margin: 10px;
+  padding-bottom: 8px;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+a {
+  text-decoration: none;
+  color: cyan;
+}
+footer{
+  height: 40px;
+  background-color: rgb(10, 32, 32);
+  vertical-align: middle;
+  padding-top: 20px;
+}
+.policies{
+  text-align: center;
+}
+.policies > a{
+  border: none;
+  font-size: medium;
+  margin-left: 5px;
+}
+
+.msg {
+  width: 90%;
+  height: 30px;
+  border-radius: 5px;
+}
+
+@media screen and (max-width:820px) {
+  .info {
+    height: 92vh;
+  }
+}
+
+@media screen and (max-width:736px) {
+  
+  .intro {
+    width: 100vw;
+    float: none;
+  }
+  .content {
+    min-width: 90%;
+    font-size: large;
+  }
+  .info {
+    margin-left: 2.5%;
+    height: 90vh;
+  }
+  .video {
+    width: 100vw;
+    float: none;
+    margin-left: 40px;
+  }
+  .video > iframe {
+    width: 80vw;
+    height: 150px;
+  }
+  .question {
+    width: 90%;
+    margin-bottom: 8%;
+  }
+  .answer {
+    width: 90%;
+    margin-bottom: 8%;
+  }
+  .msg {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width:340px) {
+  .info {
+    height: 95vh;
+  }
+}
+
