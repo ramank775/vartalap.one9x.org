@@ -129,6 +129,7 @@ footer{
   background-color: rgb(10, 32, 32);
   vertical-align: middle;
   padding-top: 20px;
+  width: 100vw;
 }
 .policies{
   text-align: center;
